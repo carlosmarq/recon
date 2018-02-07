@@ -3,7 +3,7 @@
 
 #Original idea and source Dhayalan96: https://raw.githubusercontent.com/Dhayalan96/enumall/master/enumall.sh
 
-# Modules that needs api’s: (bing_api google_api google_cse shodan_api)
+# Modules that needs api’s: (bing_api google_api google_cse shodan_api ipinfodb_api)
 
 # input from command-line becomes domain to test
 domain=$1
